@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One&display=swap");
+.header {
+  border-radius: 20px;
+}
+.header-nav {
+  padding-left: 4rem !important;
+  padding-right: 4rem !important;
+}
+.logo {
+  height: 80px;
+  font-family: "Paytone One", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: var(--navy);
+  cursor: pointer;
+}
+.logo img {
+  width: 80px;
+  height: 80px;
+}
+.nav-bar {
+  gap: 5.5px;
+}
+.nav-links {
+  color: #1b1b1b !important;
+  font-size: 16px;
+  margin: 0 10px;
+  transition: all 0.35s ease !important;
+  cursor: pointer;
+  padding: 5px 0;
+}
+.nav-links:hover {
+  transform: translateY(-5px);
+  color: var(--tomato) !important;
+}
+.nav-links:focus {
+  color: var(--tomato) !important;
+}
+.nav-links.active {
+  color: var(--tomato) !important;
+}
+.nav-icons {
+  margin-bottom: 4px;
+  margin-right: 2.5px;
+}
+.nav-button {
+  font-size: 14px;
+}
+.nav-button-icons {
+  margin-bottom: 2px;
+  margin-right: 6px;
+  font-size: 16px;
+}
+.navbar-toggler{
+  font-size: 1.6rem !important;
+  color: var(--tomato) !important;
+}
+
+@media (max-width: 990px) {
+  .header-nav {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .nav-links{
+    margin: 10px 0;
+  }
+  .nav-links:active{
+    color: #1b1b1b;
+  }
+}
+
+/* Footer */
+.footer .container footer {
+  background: linear-gradient(#00457080, #00457080), url("../../images/image-3.jpg");
+  background-size: cover;
+  
+}
+
+.footer .container-lg,
+.footer .container-md,
+.footer .container-sm,
+.footer .container {
+  max-width: 100% !important;
+}
+
+.container,
+.container-fluid,
+.container-xxl,
+.container-xl,
+.container-lg,
+.container-md,
+.container-sm {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+.footer .row{
+  margin-right: 0px;
+}
+.foot-row{
+  align-items: center;
+  flex-direction: row !important;
+}
