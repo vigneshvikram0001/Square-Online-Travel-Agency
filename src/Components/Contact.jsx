@@ -7,8 +7,7 @@ function Contact() {
       <div
         class="section-head col-sm-12"
         data-aos="fade-down"
-        data-aos-duration="1500"
-        data-aos-delay="1500"
+        data-aos-duration="1100"
       >
         <h4>
           <span>Contact Us</span>
@@ -34,8 +33,8 @@ function Contact() {
               placeholder="Your Name"
               required
               data-aos="fade-right"
-              data-aos-duration="1500"
-              data-aos-delay="1500"
+              data-aos-duration="1300"
+              data-aos-delay="200"
             />
             <input
               type="email"
@@ -43,8 +42,8 @@ function Contact() {
               placeholder="Email Address"
               required
               data-aos="fade-right"
-              data-aos-duration="1900"
-              data-aos-delay="1500"
+              data-aos-duration="1400"
+              data-aos-delay="300"
             />
             <input
               type="number"
@@ -52,8 +51,8 @@ function Contact() {
               placeholder="Mobile Number"
               required
               data-aos="fade-right"
-              data-aos-duration="2200"
-              data-aos-delay="1500"
+              data-aos-duration="1500"
+              data-aos-delay="400"
             />
             <textarea
               className="form-field animation a3"
@@ -61,7 +60,6 @@ function Contact() {
               style={{ padding: "10px 15px", height: 100 }}
               data-aos="fade-right"
               data-aos-duration="2500"
-              data-aos-delay="1500"
             ></textarea>
             <button className="animation a6" type="submit">
               CONTACT US!

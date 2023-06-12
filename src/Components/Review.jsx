@@ -12,8 +12,7 @@ function Review() {
             <div
               class="section-head col-sm-12"
               data-aos="fade-down"
-              data-aos-duration="1500"
-              data-aos-delay="1500"
+              data-aos-duration="1200"
             >
               <h4>
                 <span>Review</span>
@@ -25,8 +24,7 @@ function Review() {
           <div
             className="col-md-4 mb-5 mb-md-0 review-card"
             data-aos="flip-left"
-            data-aos-duration="1000"
-            data-aos-delay="1500"
+            data-aos-duration="1400"
           >
             <div className="d-flex justify-content-center mb-4">
               <img
@@ -64,8 +62,7 @@ function Review() {
           <div
             className="col-md-4 mb-5 mb-md-0 review-card"
             data-aos="flip-right"
-            data-aos-duration="1000"
-            data-aos-delay="1500"
+            data-aos-duration="1400"
           >
             <div className="d-flex justify-content-center mb-4">
               <img
@@ -104,7 +101,6 @@ function Review() {
             className="col-md-4 mb-0 review-card"
             data-aos="flip-left"
             data-aos-duration="1500"
-            data-aos-delay="1500"
           >
             <div className="d-flex justify-content-center mb-4">
               <img
