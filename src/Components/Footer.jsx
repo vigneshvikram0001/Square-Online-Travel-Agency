@@ -12,28 +12,28 @@ function Footer() {
               <div className="row foot-row text-center d-flex justify-content-center pt-5">
                 <div className="col-md-2">
                   <h6 className="text-uppercase font-weight-bold">
-                    <a href="#!" className="text-white">
+                    <a href="/" className="text-white">
                       About us
                     </a>
                   </h6>
                 </div>
                 <div className="col-md-2">
                   <h6 className="text-uppercase font-weight-bold">
-                    <a href="#!" className="text-white">
-                      Products
+                    <a href="/" className="text-white">
+                      Packages
                     </a>
                   </h6>
                 </div>
                 <div className="col-md-2">
                   <h6 className="text-uppercase font-weight-bold">
-                    <a href="#!" className="text-white">
-                      Awards
+                    <a href="/" className="text-white">
+                      Review
                     </a>
                   </h6>
                 </div>
                 <div className="col-md-2">
                   <h6 className="text-uppercase font-weight-bold">
-                    <a href="#!" className="text-white">
+                    <a href="/" className="text-white">
                       Help
                     </a>
                   </h6>
