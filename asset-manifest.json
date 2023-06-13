@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Square-Online-Travel-Agency/static/css/main.8a90ad04.css",
+    "main.js": "/Square-Online-Travel-Agency/static/js/main.4f730d71.js",
+    "static/media/image-9.jpg": "/Square-Online-Travel-Agency/static/media/image-9.df49115fdffc5878e68c.jpg",
+    "static/media/image-17.jpg": "/Square-Online-Travel-Agency/static/media/image-17.f86e6a7f800f31d5268a.jpg",
+    "static/media/image-7.jpg": "/Square-Online-Travel-Agency/static/media/image-7.2340b8d82c51bdba0417.jpg",
+    "static/media/image-16.jpg": "/Square-Online-Travel-Agency/static/media/image-16.c6531571b73aab9a0ab7.jpg",
+    "static/media/image-15.jpg": "/Square-Online-Travel-Agency/static/media/image-15.2fdaea8c333db209af80.jpg",
+    "static/media/fa-solid-900.ttf": "/Square-Online-Travel-Agency/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/image-1.jpg": "/Square-Online-Travel-Agency/static/media/image-1.388c4db1393fdeaaffba.jpg",
+    "static/media/image-11.jpg": "/Square-Online-Travel-Agency/static/media/image-11.eb7e6472c1c38bfcafea.jpg",
+    "static/media/image-6.jpg": "/Square-Online-Travel-Agency/static/media/image-6.8f9aac1a3709f2b03b7d.jpg",
+    "static/media/image-4.jpg": "/Square-Online-Travel-Agency/static/media/image-4.3e4107a235f1435e5d3b.jpg",
+    "static/media/image-14.jpg": "/Square-Online-Travel-Agency/static/media/image-14.0edea784e015b7407d0b.jpg",
+    "static/media/logos.png": "/Square-Online-Travel-Agency/static/media/logos.5d691781d132a12829a3.png",
+    "static/media/rew3.jpg": "/Square-Online-Travel-Agency/static/media/rew3.046d983d68000836b367.jpg",
+    "static/media/image-19.jpg": "/Square-Online-Travel-Agency/static/media/image-19.3d7c7c29389df9c60d64.jpg",
+    "static/media/image-18.jpg": "/Square-Online-Travel-Agency/static/media/image-18.e115ba4fdc0bc877da7c.jpg",
+    "static/media/image-12.jpg": "/Square-Online-Travel-Agency/static/media/image-12.208fd8dae80f00fe486e.jpg",
+    "static/media/image-3.jpg": "/Square-Online-Travel-Agency/static/media/image-3.493392088df222aa4216.jpg",
+    "static/media/image-21.jpg": "/Square-Online-Travel-Agency/static/media/image-21.e3149e8c6e97014c935c.jpg",
+    "static/media/image-20.jpg": "/Square-Online-Travel-Agency/static/media/image-20.3791688733ae50d58c66.jpg",
+    "static/media/rew1.jpg": "/Square-Online-Travel-Agency/static/media/rew1.98088e0b4278d763ba7d.jpg",
+    "static/media/image-5.jpg": "/Square-Online-Travel-Agency/static/media/image-5.2b64f495454b28125220.jpg",
+    "static/media/fa-brands-400.ttf": "/Square-Online-Travel-Agency/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/rew2.jpg": "/Square-Online-Travel-Agency/static/media/rew2.59f3446a5d368d317b30.jpg",
+    "static/media/image-10.jpg": "/Square-Online-Travel-Agency/static/media/image-10.1a5fe9624f0aff45e63b.jpg",
+    "static/media/fa-solid-900.woff2": "/Square-Online-Travel-Agency/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Square-Online-Travel-Agency/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Square-Online-Travel-Agency/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Square-Online-Travel-Agency/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Square-Online-Travel-Agency/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Square-Online-Travel-Agency/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Square-Online-Travel-Agency/index.html",
+    "main.8a90ad04.css.map": "/Square-Online-Travel-Agency/static/css/main.8a90ad04.css.map",
+    "main.4f730d71.js.map": "/Square-Online-Travel-Agency/static/js/main.4f730d71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a90ad04.css",
+    "static/js/main.4f730d71.js"
+  ]
+}
