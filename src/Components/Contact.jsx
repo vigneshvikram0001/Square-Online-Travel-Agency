@@ -59,7 +59,8 @@ function Contact() {
               placeholder="Enter your message"
               style={{ padding: "10px 15px", height: 100 }}
               data-aos="fade-right"
-              data-aos-duration="2500"
+              data-aos-duration="1600"
+              data-aos-delay="500"
             ></textarea>
             <button className="animation a6" type="submit">
               CONTACT US!

@@ -26,14 +26,14 @@ function About() {
               promise for the best travel experience in Incredible India.
             </p>
 
-            <a
-              href="/"
+            <button
               title="About Us Button"
               data-aos="fade-up"
               data-aos-duration="1300"
+              type="button"
             >
               ABOUT US
-            </a>
+            </button>
           </div>
         </div>
       </div>

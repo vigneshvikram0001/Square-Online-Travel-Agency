@@ -126,7 +126,7 @@ a:hover {
   font-size: 14pt;
   text-align: right;
 }
-.about-us-info a {
+.about-us-info button {
   background-color: var(--mango);
   color: #ffffff;
   width: 180px;
@@ -137,11 +137,14 @@ a:hover {
   font-weight: bold;
   letter-spacing: 1.3px;
   margin-bottom: 1rem;
-}
-.about-us-info a:hover {
-  background: var(--mango);
-  color: #fff;
+  transition: all .35s ease !important;
   border-radius: 3rem;
+  border: 2px solid var(--mango);
+}
+.about-us-info button:hover {
+  background: transparent;
+  border: 2px solid var(--mango);
+  color: var(--mango);
   box-shadow: rgba(0, 0, 0, 0.322) 0px 20px 30px -10px;
   transform: translateY(10px);
 }
