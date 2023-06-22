@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Square-Online-Travel-Agency/static/css/main.8a90ad04.css",
+    "main.css": "/Square-Online-Travel-Agency/static/css/main.98e1e9f6.css",
     "main.js": "/Square-Online-Travel-Agency/static/js/main.4f730d71.js",
     "static/media/image-9.jpg": "/Square-Online-Travel-Agency/static/media/image-9.df49115fdffc5878e68c.jpg",
     "static/media/image-17.jpg": "/Square-Online-Travel-Agency/static/media/image-17.f86e6a7f800f31d5268a.jpg",
@@ -33,11 +33,11 @@
     "static/media/fa-v4compatibility.ttf": "/Square-Online-Travel-Agency/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/Square-Online-Travel-Agency/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/Square-Online-Travel-Agency/index.html",
-    "main.8a90ad04.css.map": "/Square-Online-Travel-Agency/static/css/main.8a90ad04.css.map",
+    "main.98e1e9f6.css.map": "/Square-Online-Travel-Agency/static/css/main.98e1e9f6.css.map",
     "main.4f730d71.js.map": "/Square-Online-Travel-Agency/static/js/main.4f730d71.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a90ad04.css",
+    "static/css/main.98e1e9f6.css",
     "static/js/main.4f730d71.js"
   ]
 }
