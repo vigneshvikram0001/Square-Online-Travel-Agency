@@ -115,16 +115,15 @@ a:hover {
 }
 .about-us-info h2 {
   color: #fff;
-  font-size: 53pt;
+  font-size: 40pt;
   font-weight: bold;
   text-align: right;
   margin-bottom: 1.5rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .about-us-info p {
   color: rgb(255, 255, 255) !important;
-  font-size: 15pt;
-  line-height: 25px;
+  font-size: 14pt;
   text-align: right;
 }
 .about-us-info button {
@@ -138,7 +137,7 @@ a:hover {
   font-weight: bold;
   letter-spacing: 1.3px;
   margin-bottom: 1rem;
-  transition: all .35s ease !important;
+  transition: all 0.35s ease !important;
   border-radius: 3rem;
   border: 2px solid var(--mango);
 }
@@ -148,4 +147,16 @@ a:hover {
   color: var(--mango);
   box-shadow: rgba(0, 0, 0, 0.322) 0px 20px 30px -10px;
   transform: translateY(10px);
+}
+@media (min-width: 1440px) {
+  .about-us-info h2 {
+    font-size: 53pt !important;
+  }
+  .about-us-info p {
+    font-size: 15pt !important;
+    line-height: 25px !important;
+  }
+  .nav-links {
+    font-size: 19px;
+  }
 }
